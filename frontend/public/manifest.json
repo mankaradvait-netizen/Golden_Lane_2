@@ -1,0 +1,9 @@
+{
+  "name": "Golden Lane EMS",
+  "short_name": "GoldenLane",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080C15",
+  "theme_color": "#FF4459",
+  "icons": []
+}
