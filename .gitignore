@@ -18,6 +18,7 @@ ENV/
 
 # Production build
 frontend/dist/
+*.tsbuildinfo
 
 # IDE / OS
 .vscode/
